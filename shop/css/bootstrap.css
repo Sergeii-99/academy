@@ -26,7 +26,7 @@
     --warning: #ffc107;
     --danger: #dc3545;
     --light: #f8f9fa;
-    --dark: #343a40;
+    --dark: #17a2b8;
     --breakpoint-xs: 0;
     --breakpoint-sm: 576px;
     --breakpoint-md: 768px;
@@ -74,7 +74,7 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #212529;
+    color: #17a2b8;
     text-align: left;
     background-color: #fff
 }
@@ -552,7 +552,7 @@ kbd {
     padding: .2rem .4rem;
     font-size: 87.5%;
     color: #fff;
-    background-color: #212529;
+    background-color: #17a2b8;
     border-radius: .2rem
 }
 
@@ -565,7 +565,7 @@ kbd kbd {
 pre {
     display: block;
     font-size: 87.5%;
-    color: #212529
+    color: #17a2b8
 }
 
 pre code {
