@@ -132,7 +132,7 @@
 .owl-carousel .owl-video-wrapper {
   position: relative;
   height: 100%;
-  background: #000; }
+  background: rgb(0, 0, 0); }
 
 .owl-carousel .owl-video-play-icon {
   position: absolute;

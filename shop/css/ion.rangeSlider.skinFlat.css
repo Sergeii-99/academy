@@ -49,7 +49,7 @@
 
 .irs-shadow {
     height: 3px; top: 34px;
-    background: #000;
+    background: black;
     opacity: 0.25;
 }
 .lt-ie9 .irs-shadow {
