@@ -6,7 +6,7 @@
     line-height:20px;
 }
 a {
-    color:#FECE1A;
+    color:#0a2efa;
     text-decoration: none;
 }
 a:hover {
@@ -25,7 +25,7 @@ p {
     color: rgb(0, 0, 0);
 }
 .navbar {
-    background: #000000;
+    background: #ffffff;
     margin-bottom:0;
     min-height:70px;
 }
@@ -36,7 +36,7 @@ p {
     padding-top:0;
 }
 .navbar-inner {
-    background: #181A1C;
+    background: #ffffff;
     border-radius:0;
     filter: none;
     border: none;
@@ -53,17 +53,16 @@ p {
     margin:10px 3px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
-    border: 1px solid #181A1C;
     box-shadow: none;
     font-size:15px;
     text-shadow: none;
-    color: #fff;
+    color: #FECE1A;
     transition: border-color 1s ease;
 }
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
     border: 1px solid #009ee7;
-    color: #fff;
-    background-color: #181A1C;
+    color: #FFF;
+    background-color: #0a2efa;
     transition: border-color 1s ease;
 }
 .nav-pills {
@@ -86,7 +85,7 @@ p {
 .navbar .btn-navbar:hover, .navbar .btn-navbar {
     border-radius:0;
     background:#0a2efa;
-    color: #000;
+    color: rgb(255, 255, 255);
 }
 /******
 2. Layout
@@ -147,7 +146,7 @@ p {
     text-align:center;
     width: 0;
     height: 0;
-    border-top: 30px solid #181A1C;
+    border-top: 30px solid #ffffff;
     border-left: 585px outset transparent;
     border-right: 585px outset transparent;
     position: relative;
@@ -177,7 +176,7 @@ p {
 **********/
  .button,  .button:visited, .button:focus {
     display:inline-block;
-    border:1px solid #181A1C;
+    border:1px solid #0a2efa;
     color:#181A1C;
     background-color:transparent;
     padding:15px 30px;
@@ -185,7 +184,7 @@ p {
     line-height:auto;
 }
 .button:hover, .button:active{
-    background-color:#181A1C;
+    background-color:#FECE1A;
     color:#fff;
 }
 .button-sp, .button-sp:visited, .button-sp:focus {
@@ -219,7 +218,7 @@ p {
     border-radius:0;
     box-shadow:none;
     text-align:center;
-    background: #ffffff;
+    background: #ffffffq;
 }
 .thumbnail .more {
     display:block;
@@ -330,10 +329,10 @@ p {
     font-weight: lighter;
 }
 .primary-section {
-    background:#0080ff;
+    background:#ffffff;
 }
 .primary-section .triangle {
-    border-top: 40px solid #FECE1A;
+    border-top: 40px solid #fff;
 }
 .primary-section .title {
     border-bottom: 1px solid #FFF;
@@ -342,16 +341,16 @@ p {
     color: #FECE1A;
 }
 .primary-section h1 {
-    color:#FFF;
+    color:black;
 }
 .secondary-section {
-    background:#0080ff;
+    background:#fff;
 }
 .secondary-section .title {
     border-bottom: 1px solid #0080ff;
 }
 .secondary-section h1, .secondary-section .title p {
-    color: #0080ff;
+    color: black;
 }
 /* Third section use bacground image */
 .third-section {
@@ -592,7 +591,7 @@ p {
     text-align:center;
 }
 .price-column h3 {
-    background-color:#181A1C;
+    background-color:#0a2efa;
     text-transform:uppercase;
     text-align: center;
     color:#FECE1A;
@@ -609,7 +608,7 @@ p {
 }
 .price-column .list li{
     font-weight:lighter;
-    color:#747C89;
+    color:#FECE1A;
     font-size:20px;
     border-bottom:1px solid #747C89;
     padding:25px 0px;
@@ -618,7 +617,7 @@ p {
     text-align: center;
     font-size:31px;
     background-color:white;
-    color:#747C89;
+    color:red;
     margin-top:25px;
 }
 .price-text{
@@ -721,10 +720,10 @@ p {
     -webkit-transition: margin 0.4s;
 }
 .contact .social li a {
-    color:#fff;
+    color:#00c3ff;
 }
 .contact .social li a:hover {
-    color:#181A1C;
+    color:#FECE1A;
 }
 .contact-form {
     background:#fff;
@@ -757,7 +756,7 @@ p {
     width:60%;
     margin:0 auto;
     padding:15px;
-    color:#181A1C;
+    color:#fc0000;
 }
 .black {
     color:#181A1C;
