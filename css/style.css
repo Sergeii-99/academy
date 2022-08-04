@@ -338,7 +338,7 @@ p {
     border-bottom: 1px solid #FFF;
 }
 .primary-section, .primary-section .title p, .primary-section h3 {
-    color: #FECE1A;
+    color: black;
 }
 .primary-section h1 {
     color:black;
@@ -608,7 +608,7 @@ p {
 }
 .price-column .list li{
     font-weight:lighter;
-    color:#FECE1A;
+    color:black;
     font-size:20px;
     border-bottom:1px solid #747C89;
     padding:25px 0px;
@@ -617,7 +617,7 @@ p {
     text-align: center;
     font-size:31px;
     background-color:white;
-    color:red;
+    color: red;
     margin-top:25px;
 }
 .price-text{
@@ -660,7 +660,7 @@ p {
     background: #FECE1A;
 }
 .contact h1, .contact h2, .contact h3, .contact h4, .contact h5, .contact h6, .contact .section .title > p, .contact .social > li > a {
-    color: #FECE1A;
+    color: black;
 }
 .contact textarea, .contact input[type="text"], .contact input[type="email"] {
     padding: 10px;
