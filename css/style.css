@@ -22,7 +22,7 @@ h1 {
 p {
     padding: 10px;
     font-weight: 100;
-    color: rgb(0, 0, 0);
+    color: black;
 }
 .navbar {
     background: #ffffff;
@@ -417,7 +417,7 @@ p {
     width:80%;
 }
 .project-title .close {
-    color: #FECE1A;
+    color: red;
     margin-top:10px;
 }
 .project-info span, .project-title h3 {
